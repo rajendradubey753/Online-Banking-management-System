@@ -8,7 +8,8 @@
 ![Screenshot (14)](https://github.com/user-attachments/assets/3b10cb91-cde7-47ab-a541-1ff32eb71af4)
 ![Screenshot (15)](https://github.com/user-attachments/assets/36d73593-a209-4333-87c2-e1ea81a718aa)
 ![Screenshot (17)](https://github.com/user-attachments/assets/4485b539-5bdd-49bf-862d-ba5ec499a013)
-![Screenshot (18)](https://github.com/user-attachments/assets/133f5708-b78f-4503-bdb7-22eab51e942d)
+![Screenshot (18)](https://github.com/user-attachments/assets/133f5708-b78f-4503-bdb7-22eab51e942d)![Screenshot (24)](https://github.com/user-attachments/assets/c7b343be-92e4-4155-8aaa-9bd4564563a3)
+
 # connection= DriverManager.getConnection("jdbc:mysql://localhost:3306/banksystem","root","aadubey"); By default username is already root. 
 # you should run login.java file if click new Customer first you get Application form :
 # after register you can get Card number and pin number login as exist customer by using Card Number and Pin Number and can see all details of his You can Select your transction like Cash Withdrawl ,Fast Cash,Pin Change, Balance Enquiry,Mini Statement
