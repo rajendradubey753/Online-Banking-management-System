@@ -5,14 +5,19 @@
 # create table signup3 (form_No varchar(30),Account_type varchar(40),card_No varchar(30),pin varchar(30),facility varchar(400));
 # create table login (form_No varchar (30),card_No varchar (50),pin varchar (30)); 
 # create table bank(pin varchar(10),date varchar(50),type varchar(20),amount varchar(20));
-![Screenshot (14)](https://github.com/user-attachments/assets/3b10cb91-cde7-47ab-a541-1ff32eb71af4)
-![Screenshot (15)](https://github.com/user-attachments/assets/36d73593-a209-4333-87c2-e1ea81a718aa)
-![Screenshot (17)](https://github.com/user-attachments/assets/4485b539-5bdd-49bf-862d-ba5ec499a013)
-![Screenshot (18)](https://github.com/user-attachments/assets/133f5708-b78f-4503-bdb7-22eab51e942d)![Screenshot (24)](https://github.com/user-attachments/assets/c7b343be-92e4-4155-8aaa-9bd4564563a3)
+![Screenshot (14)](https://github.com/user-attachments/assets/36ddd11a-8266-4c07-8141-059baa275ddc)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/b5deda4f-d5fc-47b2-8a12-b71b964f068a)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/b003047e-f9a1-4a63-9938-374fdfb8e552)
+
+![Screenshot (18)](https://github.com/user-attachments/assets/e7962383-dd6d-45db-97dc-d4e6427fbbcb)
 
 # connection= DriverManager.getConnection("jdbc:mysql://localhost:3306/banksystem","root","aadubey"); By default username is already root. 
 # you should run login.java file if click new Customer first you get Application form :
 # after register you can get Card number and pin number login as exist customer by using Card Number and Pin Number and can see all details of his You can Select your transction like Cash Withdrawl ,Fast Cash,Pin Change, Balance Enquiry,Mini Statement
-![Screenshot (23)](https://github.com/user-attachments/assets/e9903b53-7d58-45f9-8197-c8366a11099d)
+![Screenshot (23)](https://github.com/user-attachments/assets/e6d9436f-fedd-4b72-a43c-00508c48c47c)
+
 # if you select mini statement then show your latest mini statement 
-![Screenshot (24)](https://github.com/user-attachments/assets/4fe38e89-a70a-4180-b9da-eb2d9b876e94)
+![Screenshot (24)](https://github.com/user-attachments/assets/d686f8e9-567d-465b-a303-3fbd0df0cdf9)
+
